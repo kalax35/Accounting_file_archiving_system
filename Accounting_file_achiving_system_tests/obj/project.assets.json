@@ -1007,11 +1007,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\weron\\Source\\Repos\\Accounting_file_archiving_system\\Accounting_file_achiving_system_tests\\Accounting_file_achiving_system_tests.csproj",
+      "projectUniqueName": "C:\\Users\\weron\\source\\repos\\Accounting_file_archiving_system\\Accounting_file_achiving_system_tests\\Accounting_file_achiving_system_tests.csproj",
       "projectName": "Accounting_file_achiving_system_tests",
-      "projectPath": "C:\\Users\\weron\\Source\\Repos\\Accounting_file_archiving_system\\Accounting_file_achiving_system_tests\\Accounting_file_achiving_system_tests.csproj",
+      "projectPath": "C:\\Users\\weron\\source\\repos\\Accounting_file_archiving_system\\Accounting_file_achiving_system_tests\\Accounting_file_achiving_system_tests.csproj",
       "packagesPath": "C:\\Users\\weron\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\weron\\Source\\Repos\\Accounting_file_archiving_system\\Accounting_file_achiving_system_tests\\obj\\",
+      "outputPath": "C:\\Users\\weron\\source\\repos\\Accounting_file_archiving_system\\Accounting_file_achiving_system_tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\weron\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1028,8 +1028,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\weron\\Source\\Repos\\Accounting_file_archiving_system\\Accounting_file_archiving_system\\Accounting_file_archiving_system.csproj": {
-              "projectPath": "C:\\Users\\weron\\Source\\Repos\\Accounting_file_archiving_system\\Accounting_file_archiving_system\\Accounting_file_archiving_system.csproj"
+            "C:\\Users\\weron\\source\\repos\\Accounting_file_archiving_system\\Accounting_file_archiving_system\\Accounting_file_archiving_system.csproj": {
+              "projectPath": "C:\\Users\\weron\\source\\repos\\Accounting_file_archiving_system\\Accounting_file_archiving_system\\Accounting_file_archiving_system.csproj"
             }
           }
         }

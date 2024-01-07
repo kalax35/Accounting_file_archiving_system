@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cK+yef99wPJsy3Mnqj7kmfqYMlpVTp+Qt1EBOsuRJyxguN/6TeeUHliqT46WE57MXn4bRx4TgUDUJf7CO0fcMQ==",
+  "dgSpecHash": "dbYvlWkFs0ytJ9d9eCL3WuqstYgxrgNj9TD7a32c+bDa3imw4k2E+pBZOJy8K8Sdg/KXpgVe+zoGFOdxmcpI8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\weron\\Source\\Repos\\Accounting_file_archiving_system\\Accounting_file_achiving_system_tests\\Accounting_file_achiving_system_tests.csproj",
+  "projectFilePath": "C:\\Users\\weron\\source\\repos\\Accounting_file_archiving_system\\Accounting_file_achiving_system_tests\\Accounting_file_achiving_system_tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\weron\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\weron\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
