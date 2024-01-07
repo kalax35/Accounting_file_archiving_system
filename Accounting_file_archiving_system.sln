@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Accounting_file_archiving_system", "Accounting_file_archiving_system\Accounting_file_archiving_system.csproj", "{A931414C-0BF0-4716-8E76-FA404CE9E1A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accounting_file_achiving_system_tests", "Accounting_file_achiving_system_tests\Accounting_file_achiving_system_tests.csproj", "{1FB2F915-ADA7-4285-8D26-5095735D486B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A931414C-0BF0-4716-8E76-FA404CE9E1A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A931414C-0BF0-4716-8E76-FA404CE9E1A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A931414C-0BF0-4716-8E76-FA404CE9E1A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FB2F915-ADA7-4285-8D26-5095735D486B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB2F915-ADA7-4285-8D26-5095735D486B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB2F915-ADA7-4285-8D26-5095735D486B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB2F915-ADA7-4285-8D26-5095735D486B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
