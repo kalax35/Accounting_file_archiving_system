@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Accounting_file_achiving_system_tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b743927fb7b2aa709bc45d37ccdb93841ee5e1fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2f61ac2b410961bf8f2a6e050b3443556d1c5d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Accounting_file_achiving_system_tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Accounting_file_achiving_system_tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
